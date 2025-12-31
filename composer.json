@@ -1,6 +1,6 @@
 {
     "name": "hpadev/facebookarchive_php-graph-sdk",
-    "description": "Facebook SDK for PHP. facebook/graph-sdk",
+    "description": "Facebook SDK for PHP. Old name: facebook/graph-sdk",
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebookarchive/php-graph-sdk",
